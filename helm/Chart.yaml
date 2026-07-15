@@ -1,0 +1,6 @@
+apiVersion: v2
+name: pwg-api
+description: Simple nginx chart for pwg-api (GitOps platform app repo)
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
